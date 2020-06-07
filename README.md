@@ -1,5 +1,5 @@
 # CustomHTTPLib_FetchWithPromises
-This Easy HTTP library has  created with below JavaScript ES5 features.
+This Easy HTTP library(@version 2.0.0) has  created with below JavaScript features.
 
 ## Class
 ## Fetch calls
